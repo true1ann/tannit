@@ -1,0 +1,13 @@
+{
+  "name": "tannit",
+  "version": "0.1.0",
+  "description": "Init system for services running in a Linux environment. Powered by tmux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "true1ann",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0"
+}
